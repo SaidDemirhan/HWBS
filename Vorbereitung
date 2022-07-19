@@ -1,0 +1,233 @@
+ Hardware und Betriebssysteme
+ 
+1.	Bei der Wahl des Druckers müssen Sie verschiedene Kriterien berücksichtigen, bevor Sie sich für einen bestimmten Druckertyp entscheiden. 
+Geben Sie ein Kriterium an, das für den Laserdrucker spricht!
+
+Zahl der Durchschläge 
+Impactdruckprinzip 
+Geschwindigkeit #
+Sehr niedriger Anschaffungspreis 
+Kostengünstiger Farbdruck bei geringen Stückzahlen pro Jahr 
+
+2.	Einer ihrer Kollegen hat in einne Computer einen neue Festplatte mit 3 TB Größe verbaut. Er fragt Sie ab welcher Größe die Festplatte mit dem  Partitionsstil  GPT initialisiert werden soll.
+
+Was werden Sie ihm antworten?
+Ab einer Größe von mehr als 2GB.
+Ab einer Größe von mehr als 3 TB.
+Ab einer Größe von mehr als 1 TB.
+Ab einer Größe von mehr als 2 TB. #
+
+3.	Beurteilen Sie die folgenden Aussagen zum Thema "BIOS":
+Bitte wählen Sie 2 von 4 Antworten!
+
+BIOS wird bei neuen Computersystemen bei Bedarf durch das UEFI emuliert. #
+BIOS ist eine Software die auf dem PC installiert werden muss.
+Das BIOS wird in einem flüchtigen Speicher gespeichert.
+Das BIOS führt den Power On Self-Test (POST) und die Initialisierung der Hardware durch. #
+
+4.	Was ist ein Scheduler
+
+Realisiert Timesharing/Timeslicing. #
+ist über eine Schnittstelle mit dem Host-Rechner verbunden 
+Ist auch als Konsole eines Computers bekannt 
+
+5.	Welcher Dienst sollte bei installiertem TCP/IP vorrangig für die Namensauflösung genutzt werden? (3 Punkte)
+
+WINS		DHCP		AD DS		DNS #
+
+6.	Ein Auszubildender kommt nach der Berufsschule in ihren Betrieb und zeigt ihnen seine Notizen. Auf einer steht eine binäre Zahl und er meint es wäre eine IP-Adresse. Auf der Notiz steht folgende Zahl:
+1100 0000 . 1010 1000 . 0000 1010 . 1001  0100
+Er fragt Sie nach dem Dezimalwerten der IP-Adresse.
+Wie lautet die IP-Adresse in Dezimalschreibweise?
+
+192.168.9.10
+172.17.54.148
+192.168.16.10
+192.168.10.148 #
+
+7.	Wie nennt sich das Programm, das unmittelbar nach dem Einschalten des PCs startet?
+Wie nennt sich das Programm, das unmittelbar nach dem Einschalten des PCs startet?
+
+B_OS 			OS 2 			BIOS #
+8.	Ihr Unternehmen will neue Computer anschaffen. Als Betriebssystem soll Windows 10 verwendet werden. Ihr Unternehmen betreibt eine Active Directory der die Computer hinzugefügt werden sollen.
+Welche Edition des Betriebssystemes müssen sie mindestens anschaffen?
+
+Windows 10 Professional #
+Windows 10 Enterprise
+Windows 10 Home
+Windows 10 Home S
+
+9.	Sie verwalten in ihrem Unternehmen die Computer. Sie haben auf einem Computer einen neuen Treiber für die Netzwerkkarte installiert. Nach dem Neustart funktioniert die Netzwerkkarte nicht mehr.
+Wie werden Sie vorgehen um den Computer wieder mit dem Netzwerk zu verbinden?
+
+Sie deinstallieren den Treiber und installieren ihn nach einem Neustart erneut.
+Sie öffnen den Geräte Manager und setzten den Treiber der Netzwerkkarte auf seine vorherige Version zurück. #
+Sie öffnen den Geräte Manager und deaktivieren die Netzwerkkarte.
+Sie bauen eine neue Netzwerkkarte ein und installieren den dazugehörigen Treiber.
+
+10.	Was passiert unter anderem beim Starten (Booten) eines Computers?
+
+Das Betriebssystem und die Programme werden installiert. 
+Festpatte und Arbeitsspeicher werden formatiert. 
+Es wird geprüft, welche Hardware an den Computer angeschlossen ist. #
+Alle Programme werden in den Arbeitsspeicher geladen. 
+
+11.	Welcher Cache-Speicher ist am nähesten am Prozessor platziert und somit am schnellsten?
+L3-Cache 	L4-Cache 	L2-Cache 	L1-Cache #
+
+12.	Im Unternehmen sollen die Rechner mit Solid-State-Disks (SSD) ausgestattet werden. Nennen Sie drei Gründe, die für den Einsatz von Solid-State-Disks sprechen. (9 Punkte)
+Bitte wählen Sie 3 von 7 Antworten!
+
+weniger anfällig gegen Erschütterungen #
+Schnellere Datenübertragung #
+es darf nur eine SSD pro PC verbaut werden
+es wird mehr Einbauplatz benötig
+SSD benötigen ein anderes Dateisystem als SATA Festplatten.
+SSD sind inkompatibel zu mechanischen Festplatten
+Energiesparender #
+
+13.	X Sie sind als Desktopsupporttechniker für das Unternehmen WBS Training tätig. Das Firmennetzwerk besteht aus einer einzelnen Active Directory Domäne mit dem Namen wbstraining.de. Die Domäne enthält 120 Clientcomputer. 
+Das Unternehmen bereitet derzeit die Migration aller Arbeitsstationen nach Windows 10 vor. Zur Vorbereitung haben Sie Windows 10 auf einem Computer mit dem Namen Desktop1 installiert. Sie wollen nun ein Abbild von Desktop1 erstellen, das anschließend auf alle Arbeitsstationen im Firmennetzwerk verteilt werden soll. 
+
+Welchen Schritt werden Sie ausführen, bevor Sie das Abbild von Desktop1 erstellen?
+
+X Installieren Sie das Migrationsprogramm für den Benutzerstatus (USMT). 
+Führen Sie den Paket-Manager aus.
+Installieren Sie das Windows Assessment and Deployment Kit (WADK).
+Führen Sie das Programm zur Systemvorbereitung (sysprep.exe) aus.
+
+14.	Welche der folgenden Aufgaben sind Aufgaben des Betriebssystems
+Bitte wählen Sie 3 von 5 Antworten!
+
+Datenbankverwaltung 
+Dateiverwaltung #
+Speichermanagement, #
+Datenschutz von persönlichen Daten vor unerlaubten Zugriff 
+Verwaltung und Zuteilung der Prozessorzeit #
+
+15.	Welche der folgenden Antworten enthält ausschliesslich Eingabegeräte?
+
+Bildschirm, Maus, Scanner, Trackball
+Tastatur, Mikrofon, Scanner, Festplatte
+Maus, Tastatur, Mikrofon, Webcam #
+Maus, Mikrofon, Digitalkamera, Drucker
+
+16.	X Bei der Frage der Dimensionierung des Cache raten Sie, einen größeren Cache auszuwählen. Ein Kunde ist sich jedoch unklar, welcher leistungssteigernde Effekt damit erzielt wird. Wie argumentieren Sie richtig?
+
+Das System wird schneller, da die Wahrscheinlichkeit, dass Daten, die der Prozessor vom RAM benötigt, bereits im Cache vorhanden sind, größer wird.
+Ein größerer Cache minimiert Festplattenzugriffe, da er wichtige Daten der Festplatte speichert.
+Das System wird sicherer, weil Daten gleichzeitig im Cache und im RAM gehalten werden.
+Ein größerer Cache senkt Kosten, da die Kapazität des Arbeitsspeichers verkleinert werden kann. 
+X Die Anwendungen reagieren schneller, da ein größerer Cache Verwaltungsaufgaben vom Prozessor übernimmt. 
+
+17.	Welche Aussage über Hardware ist zutreffend?
+
+Unter Hardware versteht man das Betriebssystem, unter Software die Anwendungsprogramme. 
+Computerviren werden besonders oft durch den Einbauen neuer Hardware übertragen. 
+Die Hardware wird von der Software gesteuert. Erst die Software macht die Hardware benutzbar. #
+Unter Hardware versteht man den Prozessor und die Platinen des Computers, unter Software die Festplatte(n) und das Diskettenlaufwerk. 
+
+18.	Um eine iso-Datei für die Installation eines Betriebssystems zu verwenden....
+
+muss sie neu formatiert werden 
+muss diese gemountet werden #
+ist sie zunächst zu kopieren 
+
+19.	Benennen sie die Funktionseinheiten des Von-Neumann-Rechners! (3 Punkte)
+
+CPU, Chipsatz, Mainboard, Speicher
+Rechen-, Steuer-, Speicher- und I/O-Werk #
+Rechen- und Steuerwerk
+Arbeits- und Datenspeicher
+
+20.	Welche Aussagen zu Gerätetreibern sind richtig?
+
+Bitte wählen Sie 2 von 3 Antworten!
+Manchmal gehört auch z.B. BASIC-Interpreter dazu.
+Stellt hardwarenahe Funktionen durch die Hardwareabstraktionsschicht des Betriebssystem bereit. #
+Schnittstelle zwischen Betriebssystem und Hardware. #
+
+21.	Zu einer Festplatte fehlt die Kapazitätsangabe. Gegeben ist jedoch die Anzahl der Sektoren "Sectors: 976.773.168"
+Ermitteln Sie die Kapazität der Festplatte in GiB.
+Sektorgröße: 512 Byte
+
+465 MiB 		465 GiB #		320 GiB 
+
+22.	Bei welcher der folgenden Antworten handelt es sich nicht um ein Betriebssystem?
+
+Mozilla #	Linux 		Mac OS X 	Android 
+
+23.	Welcher der folgenden Speicher hat die geringste Zugriffszeit?
+
+Festplatte	CD-Rom	RAM	#	Diskette
+
+24.	Sie wollen einen Computer mit einer statischen IP-Adresse konfigurieren. Der Computer soll Zugriff auf das Internet erhalten.
+Welche Konfiguration stellt eine vollständige funktionierende IP-Konfiguration dar?
+
+IP-Adresse       : 192.168.111.10
+Subnetzmaske: 255.255.255.0
+Gateway           : 192.168.111.1
+DNS-Server      : 192.168.111.1       #
+
+IP-Adresse       : 192.168.111.100
+Subnetzmaske: 255.255.255.224
+Gateway           : 192.168.111.1
+DNS-Server      : 192.168.111.1
+
+IP-Adresse       : 192.168.111.10
+Subnetzmaske: 255.255.255.0
+Gateway           : 192.168.112.1
+DNS-Server      :
+
+IP-Adresse       : 192.168.111.10
+Subnetzmaske: 255.255.255.0
+Gateway           :
+DNS-Server      : 192.168.111.1
+
+25.	Welche Begriffe beschreiben die physikalische Organisation von Daten auf einem Festplattenlaufwerk (HDD)? (6 Punkte)
+Bitte wählen Sie 3 von 6 Antworten!
+
+Partition	Spirale		Zylinder #	Sektor		Cluster		Spur
+
+26.	Sie sind Administrator von einem Computer mit dem Betriebssystem Windows 7 Professional.
+Sie nutzen die Datenträgerverwaltung um die Festplatten in Ihrem Computer zu verwalten.
+Welche der folgenden Behauptungen treffen auf die Erweiterte Partition zu. Wählen Sie zwei. 
+Bitte wählen Sie 2 von 6 Antworten!
+
+Sie können drei Erweiterte Partitionen erstellen. 
+Sie können nur eine Erweiterte Partition erstellen. #
+Erweiterte Partitionen können nur NTFS Formatiert werden. 
+Erweiterte Partitionen können in Primäre Partitionen aufgeteilt werden. 
+Erweiterte Partitionen können in Logische Laufwerke aufgeteilt werden. #
+Erweiterte Partitionen können nur FAT32 Formatiert werden. 
+
+
+27.	Welche Aussage über ein Byte stimmt?
+
+1 Byte entspricht 8 Bit. #
+Ein Byte ist die kleinste speicherbare Einheit. 
+Ein Byte entspricht einer 0 bzw. 1. 
+Eine Folge von 256 Zeichen ist ein Byte 
+
+28.	Wie erhöhen Sie den Speicherplatz Ihres Rechners?
+
+Bitte wählen Sie 1 von 3 Antworten!
+Durch das Hinzufügen von Arbeitsspeicher 
+Durch den Einbau einer zweiten Festplatte #
+Durch den Wechsel vom FAT32- zum NTFS-Dateisystem 
+
+29.	Mit welcher Antwort kann man die Geschwindigkeit eines Prozessors (CPU) angeben?
+
+120 Gigabyte 
+300 Kilobit/Sekunde 
+2,8 Gigahertz #
+32 Bit 
+
+30.	Beurteilen Sie die folgenden Aussagen zum Thema "BIOS":
+Bitte wählen Sie 2 von 4 Antworten!
+
+BIOS ist ein Antivirusprogramm.
+Das BIOS führt den Power On Self-Test (POST) und die Initialisierung der Hardware durch. #
+BIOS ist eine Software die auf dem PC installiert werden muss.
+Der Name BIOS steht für Basic Input Output System. #
+
